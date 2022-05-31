@@ -1,0 +1,6 @@
+Nama: Tanisa
+Umur: 19
+Alamat: Jalan Imam Bonjol
+Nama: Adha
+Umur: 18
+Alamat: Jalan Surya
